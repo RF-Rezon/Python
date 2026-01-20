@@ -1,0 +1,5 @@
+- Python
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn and Plotly
